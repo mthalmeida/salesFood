@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Empadas de frango",
+    "image": "https://t4.ftcdn.net/jpg/00/17/04/31/360_F_17043171_iILDeYOmaKjj3SX8yIosHUTcggrBJwis.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "title": "Coca Cola 310ml",
+    "image": "https://static.paodeacucar.com/img/uploads/1/638/24595638.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "title": "Coca Cola 200ml",
+    "image": "https://static.paodeacucar.com/img/uploads/1/49/24603049.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "title": "Coca Cola Zero 200ml",
+    "image": "https://images.tcdn.com.br/img/img_prod/1115696/coca_cola_sem_acucar_pet_200ml_674_1_902382590eff30f20abc176fa85326fd.png",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "title": "Guaraná 310ml",
+    "image": "https://phygital-files.mercafacil.com/primato/uploads/produto/refrig_antarctica_310ml_guarana_e6c7fd83-22cc-4689-a915-bd652c38d5f8.jpeg",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "title": "Guaraná 200ml",
+    "image": "https://images.tcdn.com.br/img/img_prod/858764/refrigerante_guarana_antartica_caculinha_200ml_c_12_1145_1_f4de32ca8412922052fb554da49ae359.png",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "title": "Suco Uva 200ml",
+    "image": "https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/51744/small/suco-adocado-maguary-fruit-shoot-uva-150ml_98060.png",
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "title": "Suco Maracujá 200ml",
+    "image": "https://s3-sa-east-1.amazonaws.com/bluesoft-erp/pb/ecommerce/produtos/fotos/e7338cb0-b5c7-425a-bc79-ad20e80276e5/foto_large.jpg",
+    "quantity": 0
+  }
+]
