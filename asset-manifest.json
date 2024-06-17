@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/salesFood/Home/static/css/main.f855e6bc.css",
-    "main.js": "/salesFood/Home/static/js/main.07fc197a.js",
-    "static/js/453.e7f87c21.chunk.js": "/salesFood/Home/static/js/453.e7f87c21.chunk.js",
-    "index.html": "/salesFood/Home/index.html",
-    "main.f855e6bc.css.map": "/salesFood/Home/static/css/main.f855e6bc.css.map",
-    "main.07fc197a.js.map": "/salesFood/Home/static/js/main.07fc197a.js.map",
-    "453.e7f87c21.chunk.js.map": "/salesFood/Home/static/js/453.e7f87c21.chunk.js.map"
+    "main.css": "/salesFood/static/css/main.f855e6bc.css",
+    "main.js": "/salesFood/static/js/main.761675c0.js",
+    "static/js/453.e7f87c21.chunk.js": "/salesFood/static/js/453.e7f87c21.chunk.js",
+    "index.html": "/salesFood/index.html",
+    "main.f855e6bc.css.map": "/salesFood/static/css/main.f855e6bc.css.map",
+    "main.761675c0.js.map": "/salesFood/static/js/main.761675c0.js.map",
+    "453.e7f87c21.chunk.js.map": "/salesFood/static/js/453.e7f87c21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.07fc197a.js"
+    "static/js/main.761675c0.js"
   ]
 }
